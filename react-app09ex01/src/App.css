@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  background-color: darkolivegreen;
+  padding: 8px;
+  color: beige;
+}
+
+input {
+  text-align: center;
+  width: 30px;
+  background-color: darkolivegreen;
+  border-radius: 10px;
+  border-style: none;
+  padding: 6px;
+  color: beige;
+}
+
+.notice {
+  color: darkolivegreen;
+  padding: 5px;
+}
+
+table {
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 400px;
+}
+
+.allcount {
+  font-size: 120%;
+}
+
+th {
+  background-color: darkolivegreen;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: beige;
+}
+
+td {
+  border-bottom: solid 1px darkolivegreen;
+}
+
+/* 기본 밑줄 제거 */
+a {
+  text-decoration: none;
+}
+
+/* 아직 방문하지 않은 링크의 글자색 정의 */
+a:link,
+a:visited {
+  color: black;
+}
+
+a:hover {
+  font-weight: bold;
+  color: darkolivegreen;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* 마우스로 링크를 클릭하고 뗄 때까지의 글자색을 정의 */
+a:active {
+  color: black;
+}
