@@ -1,0 +1,25 @@
+div {
+  border: 3px solid orchid;
+  background-color: cornflowerblue;
+  margin: 5px;
+  padding: 5px;
+  color: chartreuse;
+  margin-right: 50px;
+}
+
+div#super {
+  border: 3px dashed blueviolet;
+  background-color: chartreuse;
+  color: orchid;
+  margin: 5px;
+  padding: 5px;
+  margin-right: 50px;
+}
+
+input {
+  background-color: chartreuse;
+  width: 30px;
+  text-align: center;
+  border: none;
+  color: orchid;
+}
