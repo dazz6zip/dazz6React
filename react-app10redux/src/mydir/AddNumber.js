@@ -11,7 +11,7 @@ export default class AddNumber extends Component {
             props로 전달받은 onClick 함수 호출, 현재 컴포너틑의 state인 size 값 전달
             onClick 함수는 AddNumberSuper에서 작성  */}
         {/* <input
-          type="button"
+          type="button" 
           value="+"
           onClick={function () {
             this.setState({ size: this.state.size + 1 });

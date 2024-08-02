@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const Calc = () => {
-  const [countValue, setCountValue] = useState(2);
+  const [countValue, setCountValue] = useState(3);
   const su = [];
 
   for (let i = 0; i < 10; i++) {

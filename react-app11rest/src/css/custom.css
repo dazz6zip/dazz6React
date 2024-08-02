@@ -1,0 +1,29 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.memberdiv table {
+  text-align: center;
+  border: 1px solid hotpink;
+}
+
+.memberdiv table th {
+  background-color: hotpink;
+  color: white;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.memberdiv a {
+  text-decoration: none;
+  color: hotpink;
+  border-radius: 10px;
+  padding: 3px;
+  border: 1px solid hotpink;
+}
+
+.memberdiv button {
+  border: none;
+}
